@@ -1,24 +1,34 @@
 # QuantAge
 
 ## Remote Servers
-1. [DNAm age calculator](https://dnamage.genetics.ucla.edu/), Horvath (updated: 2014)
+
+<details>
+<summary> [DNAm age calculator](https://dnamage.genetics.ucla.edu/), Horvath (updated: 2014) </summary>
    
    Based on [the seminal Horvath paper in 2013](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r115). Replaced by an improved online calculator at [clockfoundation.org](https://dnamage.clockfoundation.org). A tutorial and example data files are provided.
 
    * Measurement platform: Illumina Infinium (EPIC, 450K, or 27K)
+</details>
 
-2. [Clock Foundation](https://dnamage.clockfoundation.org/user/login), (not yet registered)
+<details>
+<summary>[Clock Foundation](https://dnamage.clockfoundation.org/user/login), (not yet registered)</summary>
+</details>
 
-3. [ClockBase](https://www.clockbase.org/), Ying et al. (updated: 2023)
+<details>
+<summary>[ClockBase](https://www.clockbase.org/), Ying et al. (updated: 2023)</summary>
 
    Eleven aging clock models in total, not yet open-sourced. [preprint](https://doi.org/10.1101/2023.02.28.530532)
+</details>
 
-4. [Aging.AI](http://www.aging.ai/) Deep Biomarkers of aging from basic blood test, by Insilico Medicine.
+<details>
+<summary>[Aging.AI](http://www.aging.ai/) Deep Biomarkers of aging from basic blood test, by Insilico Medicine.</summary>
+</details>
 
 ## Databases
 
 ## Downloable Softwares
-1. [Mammalian Methylation Assortium](https://github.com/shorvath/MammalianMethylationConsortium), Horvath et al. (updated: 2023)
+<details>
+<summary>[Mammalian Methylation Assortium](https://github.com/shorvath/MammalianMethylationConsortium), Horvath et al. (updated: 2023)</summary>
    
    Contains various data files, clock coefficiencts, and source R codes, including universal mammalian clock and network analysis
    #### Data files
@@ -40,9 +50,12 @@
       * mammalian network analysis in Haghani et al., Science 2023
 
    #### Binary codes
+</details>
 
+<details>
+<summary>[Mammalian Methylation Clocks], Zoller and Horvath (updated: 2023)</summary>
 
-2. [Mammalian Methylation Clocks](https://github.com/jazoller96/mammalian-methyl-clocks), Zoller and Horvath (updated: 2023)
+   [github]((https://github.com/jazoller96/mammalian-methyl-clocks))
 
    Contains various clock coefficients, and binary R codes. Publishes [A companion paper on biorxiv](https://www.biorxiv.org/content/10.1101/2023.09.06.556506v1) and references to all R functions.
 
@@ -60,8 +73,11 @@
       * Age transformations (R)
    #### Binary codes
       * The entire MammalMethylClock package is in compiled R binaries only!
-      * 
-3. [AltumAge](https://github.com/rsinghlab/AltumAge/tree/main), [Camillo et al., Nature Aging, 2022](https://www.nature.com/articles/s41514-022-00085-y), (updated: April 2022)
+
+</details>
+
+<details>
+<summary>[AltumAge](https://github.com/rsinghlab/AltumAge/tree/main), [Camillo et al., Nature Aging, 2022](https://www.nature.com/articles/s41514-022-00085-y), (updated: April 2022)</summary>
 
    A pan-tissue DNA methylation epigenetic clock based on deep learning. 
 
@@ -70,3 +86,5 @@
       * Missing gold_standards.csv
       * Missing data_pkl/*.pkl
       * Who knows what!
+
+</details>
