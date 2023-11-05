@@ -26,7 +26,7 @@
 
 ## Databases
 
-## Downloable Softwares
+## Downloadable Softwares
 <details>
 <summary>[Mammalian Methylation Assortium](https://github.com/shorvath/MammalianMethylationConsortium), Horvath et al. (updated: 2023)</summary>
    
@@ -53,9 +53,7 @@
 </details>
 
 <details>
-<summary>[Mammalian Methylation Clocks], Zoller and Horvath (updated: 2023)</summary>
-
-   [github]((https://github.com/jazoller96/mammalian-methyl-clocks))
+<summary>[Mammalian Methylation Clocks](https://github.com/jazoller96/mammalian-methyl-clocks), Zoller and Horvath (updated: 2023)</summary>
 
    Contains various clock coefficients, and binary R codes. Publishes [A companion paper on biorxiv](https://www.biorxiv.org/content/10.1101/2023.09.06.556506v1) and references to all R functions.
 
