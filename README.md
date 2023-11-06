@@ -80,9 +80,21 @@
    A pan-tissue DNA methylation epigenetic clock based on deep learning. 
 
    #### Problems
-      * Missing provide my_functions.py
+      * Missing my_functions.py
       * Missing gold_standards.csv
       * Missing data_pkl/*.pkl
       * Who knows what!
 
+</details>
+
+## Helper Packages
+<details>
+<summary>[GEOparse](https://github.com/guma44/GEOparse), (updated: August 2021)</summary>
+Python library to access Gene Expression Omnibus Database (GEO).
+
+GEOparse is python package that can be used to query and retrieve data from Gene Expression Omnibus database (GEO). The inspiration and the base for it is great R library GEOquery.
+
+   #### Problems
+      * Lack documentation
+      * Lack features
 </details>
