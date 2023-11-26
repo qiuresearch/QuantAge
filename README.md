@@ -1,5 +1,11 @@
 # QuantAge
 
+This research project aims to investigate the relationship between epigenetic marks and chronological age. By studying known epigenetic blocks, we aim to develop a method to accurately determine ages based on these marks. Epigenetic marks are modifications to DNA that can provide insights into an individual's biological age, which may differ from their chronological age. Understanding the connection between epigenetic marks and age can have significant implications for various fields, including aging research, forensic science, and personalized medicine.
+
+Through extensive analysis and data collection, we will explore the patterns and correlations between epigenetic marks and chronological age. By examining a diverse range of samples and utilizing advanced computational techniques, we aim to develop a robust model that can accurately predict ages based on epigenetic marks. This research project has the potential to contribute to our understanding of the aging process and open up new avenues for age-related studies and applications.
+
+Please note that the findings and results of this research project are preliminary and subject to further verification and validation.
+
 ## Remote Servers
 
 <details>
